@@ -1,5 +1,5 @@
 # CLI-Mini-Project
 ########## how to run ###################
-tsc
-cd build
-node main
+\n tsc
+\n cd build
+\n node main
